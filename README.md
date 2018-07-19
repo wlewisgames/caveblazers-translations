@@ -6,6 +6,24 @@ There's a [Google Sheet](https://docs.google.com/spreadsheets/d/1gwRiBYikRrkdn3J
 
 You can't edit the Google Sheet, but you can use it as a reference when translating the json files.
 
+#### Guidelines
+
+ - Anything within `{curly brackets}` should not be translated. For example `+10 {Melee Damage}` should be kept in English. However the ordering can be altered if `{Melee Damage} +10` makes more sense in the given language.
+
+- Magic item descriptions contain a `-USE-` tag. This should not be translated. It is used in game to split items' descriptions and "use descriptions".
+For example:
+```
+A gold skull which follows you around.-USE-the golden skull attacks nearby targets.
+```
+will be shown in game as:
+```
+A gold skull which follows you around.
+
+Use:
+The golden skull attacks nearby targets.
+```
+- Newlines can be added to text by entering `\n`. The game will generally add newlines automatically, but this can be useful for item/blessing/perk descriptions.
+
 ### How to install a language file
 1. Get Caveblazers on [Steam](http://store.steampowered.com/app/452060/Caveblazers/), [Humble](https://www.humblebundle.com/store/caveblazers) or [GOG](https://www.gog.com/game/caveblazers)
 2. Download the language file that you want to use (e.g. Russian_RU.json)
