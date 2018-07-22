@@ -26,6 +26,8 @@
     "progress": "Framsteg",
     "progress_max": "MAX",
     "level_num": "Nivå {0}",
+	"friendly": "vänlig",
+	"hostile": "fientlig",
     "wave_num": "Våg {0}",
     "card_packs_gained": "+{0} Kort Förpackningar",
     "tokens_gained": "+{0} Tokens",
