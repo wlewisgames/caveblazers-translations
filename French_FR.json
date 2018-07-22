@@ -26,6 +26,8 @@
     "crushed": "Ecrase",
     "enable": "Active",
     "anti_cheat": "L'Anti-Cheat vous a ramene sur le menu principal",
+    "friendly": "friendly",
+    "hostile": "hostile",
     "play": "Jouer",
     "resume": "Reprendre",
     "restart": "Reessayer",
