@@ -23,6 +23,11 @@ Use:
 The golden skull attacks nearby targets.
 ```
 - Newlines can be added to text by entering `\n`. The game will generally add newlines automatically, but this can be useful for item/blessing/perk descriptions.
+- All dialogue lines can be made plural by adding an "s" to the end of the tag. e.g:
+```
+"tutorial1_3": "Get up here, fella",
+"tutorial1_3s": "Get up here, fellas",
+```
 
 ### How to install a language file
 1. Get Caveblazers on [Steam](http://store.steampowered.com/app/452060/Caveblazers/), [Humble](https://www.humblebundle.com/store/caveblazers) or [GOG](https://www.gog.com/game/caveblazers)
