@@ -512,7 +512,7 @@
     "altar": "Autel",
     "pumice_crystal": "Cristal de ponte",
     "shadow_station": "Station d'ombre",
-    "health_shrine_desc": "Ces sanctuaires vous restaureront jusqu'a un maximum de 100 de sante pour un co�t en or consequent.",
+    "health_shrine_desc": "Ces sanctuaires vous restaureront jusqu'a un maximum de 100 de sante pour un coût en or consequent.",
     "random_shrine_desc": "Ces sanctuaires feront apparaitre un objet aleatoire une fois achetes. N'importe quel potions, nourritures, armes et bombes peuvent etre donnes.",
     "item_shrine_desc": "Ces sanctuaires tiennent un seul objet qui peut etre achete. Le prix du tombeau est base sur la valeur de l'objet.",
     "perk_shrine_desc": "Sur ce sanctuaire, vous pouvez selectionner une avantage, avant d'entrer dans la caverne.",
