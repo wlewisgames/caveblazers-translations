@@ -1,14 +1,18 @@
 # Community translations for Caveblazers!
 ### How to contribute
-Download the language files, make changes where you see fit (the translations done using Google Translate probably need a lot of fixing), and commit your changes for everyone else to enjoy!
+- Create your own **fork** of the main repository
+- Download the files & make changes where you see fit
+- Commit your changes to your fork
+- When you're ready to merge your changes, create a **pull request** from your fork in to the main repository
 
 There's a [Google Sheet](https://docs.google.com/spreadsheets/d/1gwRiBYikRrkdn3Jlg9Q-LY_lg19Mxzfg4KG4jiX7eBg) available with all of the game's text: https://docs.google.com/spreadsheets/d/1gwRiBYikRrkdn3Jlg9Q-LY_lg19Mxzfg4KG4jiX7eBg
 
 You can't edit the Google Sheet, but you can use it as a reference when translating the json files.
 
 #### Guidelines
+- Make sure you save your language files with **UTF-8 encoding** after making any changes! Otherwise most accents & special characters won't work.
 
- - Anything within `{curly brackets}` should not be translated. For example `+10 {Melee Damage}` should be kept in English. However the ordering can be altered if `{Melee Damage} +10` makes more sense in the given language.
+- Anything within `{curly brackets}` should not be translated. For example `+10 {Melee Damage}` should be kept in English. However the ordering can be altered if `{Melee Damage} +10` makes more sense in the given language.
 
 - Magic item descriptions contain a `-USE-` tag. This should not be translated. It is used in game to split items' descriptions and "use descriptions".
 For example:
@@ -23,6 +27,11 @@ Use:
 The golden skull attacks nearby targets.
 ```
 - Newlines can be added to text by entering `\n`. The game will generally add newlines automatically, but this can be useful for item/blessing/perk descriptions.
+- All dialogue lines can be made plural by adding an "s" to the end of the tag. e.g:
+```
+"tutorial1_3": "Get up here, fella",
+"tutorial1_3s": "Get up here, fellas",
+```
 
 ### How to install a language file
 1. Get Caveblazers on [Steam](http://store.steampowered.com/app/452060/Caveblazers/), [Humble](https://www.humblebundle.com/store/caveblazers) or [GOG](https://www.gog.com/game/caveblazers)
