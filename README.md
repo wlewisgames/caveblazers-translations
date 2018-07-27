@@ -54,3 +54,6 @@ file = "Languages/Russian_RU.json"
 - Cutscenes have linebreaks & pauses that make sense in English, but may not make sense in other languages
 
 If you find any other issues (unsupported characters, for example), you can report them on the [GitHub Issues](https://github.com/wlewisgames/caveblazers-translations/issues) section.
+
+### License
+Caveblazers Translations are licensed under the [MIT license](https://opensource.org/licenses/MIT)
