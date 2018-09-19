@@ -330,7 +330,7 @@
     "key_mbmiddle": "Mouse Middle",
     "key_nokey": "No Key",
     "key_presskey": "<PRESS KEY>",
-    "pad_presskey": "<PRESS KEY>",
+    "pad_presskey": "<PRESS BUTTON>",
     "xbox_start": "Start",
     "ps_start": "Start",
     "game_settings": "Game Settings",
