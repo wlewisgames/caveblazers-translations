@@ -29,6 +29,8 @@
     "anti_cheat": "反作弊器已將你踢回主菜單",
     "friendly": "友善",
     "hostile": "敵對",
+    "reduced_gold_cost": "-{0}g cost",
+    "reduced_health_cost": "-{0} health cost",
     "month_jan": "1",
     "month_feb": "2",
     "month_mar": "2",

@@ -29,6 +29,8 @@
     "anti_cheat": "Anti-Cheat voltou ao menu principal",
     "friendly": "friendly",
     "hostile": "hostile",
+    "reduced_gold_cost": "-{0}g cost",
+    "reduced_health_cost": "-{0} health cost",
     "month_jan": "jan",
     "month_feb": "fev",
     "month_mar": "mar",

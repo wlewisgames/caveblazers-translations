@@ -29,6 +29,8 @@
     "anti_cheat": "Анти-чит вернул вас в главное меню",
     "friendly": "дружелюбный",
     "hostile": "враждебный",
+    "reduced_gold_cost": "-{0}g cost",
+    "reduced_health_cost": "-{0} health cost",
     "month_jan": "янв.",
     "month_feb": "фев.",
     "month_mar": "мар.",

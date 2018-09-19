@@ -29,6 +29,8 @@
     "anti_cheat": "Anti-Cheat har återvänt till huvudmenyn",
     "friendly": "vänlig",
     "hostile": "fientlig",
+    "reduced_gold_cost": "-{0}g cost",
+    "reduced_health_cost": "-{0} health cost",
     "month_jan": "jan",
     "month_feb": "febr",
     "month_mar": "mars",
