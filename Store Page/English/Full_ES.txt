@@ -1,0 +1,26 @@
+Caveblazers es un juego "roguelike" de plataformas enfocado en la acción y ambientado en un mundo de fantasía. Cada partida es única, con niveles para explorar generados proceduralmente y con una cantidad ingente de objetos, armas y equipamiento por descubrir.
+
+El juego tiene lugar en un cueva recientemente descubierta, de la que se dice que alberga un "poder inimaginable". Juegas el papel de un aventurero dispuesto a explorar la cueva y averiguar que riquezas alberga. Sin embargo, no estás solo...
+
+A medida que te vas adentrando en las profundidades de la cueva descubrirás nuevas zonas que explorar, nuevas armas y nuevos monstruos en los que probarlas.
+
+¡Personajes inteligentes!
+A lo largo de tu viaje encontrarás personajes controlados por la IA. Algunos amistosos, otros hostiles. Usamos un sistema de reconocimiento de caminos con el cual los personajes amistosos te seguirán a donde quiera que vayas, y los enemigos serán capaces de rastrearte sin importar donde te escondas. No hay escapatoria. ¡Prepárate a tener miedo!  
+
+¡Roguelike de plataformas!
+Caveblazers es un moderno juego de plataformas que incorpora algunos elementos "roguelike" y de juegos de rol como muerte permanente, pociones aleatorias, un sistema de inventario tipo JdR y toneladas de objetos, equipamiento y mejoras!
+
+¡Desafíos diarios!
+¡Cada día se generará una nueva aventura! ¡Será la mismo para todo el mundo y sólo tendrás una oportunidad para vencerla! Estos desafíos te darán un equipamiento inicial y un conjunto de diferentes características.
+
+¡Batallas con jefes épicos!
+Entre cada zona te encontrarás un jefe. Cada uno es único y requiere una estrategia diferente para derrotarlo. Generalmente son monstruosidades gigantes con barras de vida que llenan toda la pantalla. ¡Buena suerte!
+
+¡Personalización del personaje!
+¡Una enorme cantidad de sombreros, túnicas, pantalones, capas y mucho más totalmente desbloqueables! ¿O quizás eres de los que les gusta quitarse todo y entrar en las cuevas en bolas? ¡Adelante!
+
+¡Combate desafiante!
+A diferencia de lo visto en otros modernos roguelikes, Caveblazers intenta alejarse de sus simplistas sistemas de combate e incorpora diversión, fluidez y un ritmo rápido a esos combates, acentuado todo por unos efectos de sangre persistentes y brutales.
+
+¡Desafíos!
+En caso de que no fuera contenido suficiente, Caveblazers contiene un montón de desafíos para retar a los jugadores más experimentados. ¡Estos desafíos recompensarán a estos jugadores con nuevos objetos, armas y rasgos especiales!
