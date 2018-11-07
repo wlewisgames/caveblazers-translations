@@ -31,7 +31,7 @@
 "Vervollständiger"
 "Erreiche 100% Spielvervollständigung"
 "Hardcore Boss"
-"Besiege einen boss mit 5 aktiven Relikten"
+"Besiege einen Boss mit 5 aktiven Relikten"
 "Arenachampion"
 "Werde der Champion einer Arena"
 "Partnerschaft"
